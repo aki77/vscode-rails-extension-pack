@@ -1,0 +1,40 @@
+{
+  "name": "rails-extension-pack",
+  "displayName": "Rails Extension Pack",
+  "description": "The collection of extensions for working with Rails in VS Code.",
+  "version": "0.1.0",
+  "publisher": "aki77",
+  "icon": "images/icon.png",
+  "engines": {
+    "vscode": "^1.38.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aki77/vscode-rails-extension-pack.git"
+  },
+  "bugs": {
+    "url": "https://github.com/aki77/vscode-rails-extension-pack/issues"
+  },
+  "extensionPack": [
+    "aki77.autocomplete-symbols",
+    "aki77.autocomplete-words",
+    "aki77.haml-lint",
+    "aki77.quick-open-rails",
+    "aki77.rails-db-schema",
+    "aki77.rails-i18n",
+    "aki77.rails-partial",
+    "aki77.rails-routes",
+    "aliariff.auto-add-brackets",
+    "jemmyw.rails-fast-nav",
+    "karunamurti.haml",
+    "mikestead.dotenv",
+    "rebornix.ruby",
+    "redhat.vscode-yaml",
+    "robinbentley.sass-indented",
+    "svipas.control-snippets",
+    "wmaurer.change-case"
+  ]
+}
