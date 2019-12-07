@@ -22,6 +22,7 @@ The collection of extensions for working with Rails in VS Code.
 - [Sass](https://marketplace.visualstudio.com/items?itemName=Syler.sass-indented)
 - [change\-case](https://marketplace.visualstudio.com/items?itemName=wmaurer.change-case)
 - [Gem Lens](https://marketplace.visualstudio.com/items?itemName=ninoseki.vscode-gem-lens)
+- [Ruby Test Explorer](https://marketplace.visualstudio.com/items?itemName=connorshea.vscode-ruby-test-adapter&ssr=false)
 
 ## Recommended settings
 
